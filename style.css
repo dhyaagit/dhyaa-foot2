@@ -1,0 +1,147 @@
+@import url("https://fonts.googleleapis.com/css2?family=poppins:wght@300;400;500;600;700;800;900&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.foot2{
+    background-color: rgb(247, 247, 247);
+    margin-top: 700px;
+}
+.title{
+    color: rgb(78, 78, 78);
+    padding: 30px 0 0 20px;
+    font-size: 18px;
+}
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(247, 247, 247);
+    margin-top: 20px;
+    padding: 0px 80px 40px 20px;
+    width: 100%;
+    cursor: text;
+}
+.sty4 > h6{
+    color: rgb(247, 247, 247);
+}
+.sty5 > h6{
+    color: rgb(247, 247, 247);
+}
+.sty6 > h6{
+    color: rgb(247, 247, 247);
+}
+
+
+.top-bar .sty1 .n1{
+    font-size: 16px;
+    text-decoration: none;
+    list-style-type: none;
+}
+.n2{
+    text-decoration: none;
+    list-style-type: none;
+}
+.n3{
+    text-decoration: none;
+    list-style-type: none;
+}
+.n4{
+    text-decoration: none;
+    list-style-type: none;
+}
+.n5{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.n2 a{
+    color: rgb(83, 92, 169);
+}
+.n3 a{
+    color: rgb(83, 92, 169);
+}
+.n4 a{
+    color: rgb(83, 92, 169);
+}
+.n5 a{
+    color: rgb(83, 92, 169);
+}
+
+.foot23 {
+    background-color: rgb(78, 78, 78);
+}
+.title2 {
+    padding: 30px 0 0 20px;
+    font-size: 19px;
+    color: #ffffff;
+}
+.down-bar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 0px 185px 20px 20px;
+    width: 100%;
+    cursor: text;
+}
+.m1{
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+.m2{
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+.m3{
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+.m4{
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+.m5{
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+.m6{
+    text-decoration: none;
+    list-style-type: none;
+    color: #ffffff;
+}
+
+
+.low-bar {
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 90px 20px 20px;
+    width: 100%;
+    cursor: text;
+    color: #ffffff;
+}
+.low-bar > ol{
+    text-decoration: none;
+    list-style-type: none;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    padding: 3px 90px 10px 20px;
+    width: 100%;
+    cursor: text;
+    color: #ffffff;
+    font-size: 17px;
+}
+.down-bar > hr {
+    margin: 0 0px 0 140px;
+}
